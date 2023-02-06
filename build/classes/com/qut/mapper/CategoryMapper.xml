@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qut.mapper.CategoryMapper">
+	<select id="categoryQuery" parameterType="com.qut.pojo.Category"
+		resultType="com.qut.pojo.Category">
+		select
+		id as "id",
+		type as "type",
+		name as "name",
+		price as "price",
+		updateTime as "updateTime"
+		from
+		category
+		where
+		1=1
+		and
+		if(#{id} is null,0=0,id=#{id})
+		and
+		if(#{type} is null,0=0,type=#{type})
+		and
+		if(#{name} is
+		null,0=0,name=#{name})
+	</select>
+	<update id="categoryUpdate"
+		parameterType="com.qut.pojo.Category">
+		update
+		category
+		set
+		price = #{price},
+		updateTime = CURDATE()
+		where
+		id = #{id}
+	</update>
+</mapper>	

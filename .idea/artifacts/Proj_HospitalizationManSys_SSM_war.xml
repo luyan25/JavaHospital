@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Proj_HospitalizationManSys_SSM:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Proj_HospitalizationManSys_SSM_war</output-path>
+    <root id="archive" name="Proj_HospitalizationManSys_SSM_war.war">
+      <element id="artifact" artifact-name="Proj_HospitalizationManSys_SSM:war exploded" />
+    </root>
+  </artifact>
+</component>

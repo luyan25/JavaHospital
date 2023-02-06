@@ -1,0 +1,59 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Proj_HospitalizationManSys_SSM:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Proj_HospitalizationManSys_SSM_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Proj_HospitalizationManSys_SSM" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="ant-1.9.6.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="ant-launcher-1.9.6.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="asm-5.2.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="cglib-3.2.5.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="commons-beanutils-1.9.3.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="commons-collections-3.2.2.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="commons-dbcp-1.4.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="commons-lang-2.4-1.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="commons-logging-1.2.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="commons-pool-1.6.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="ezmorph-1.0.6.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="gson-2.0.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="javassist-3.22.0-GA.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="json-lib-2.4-jdk15.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="log4j-1.2.17.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="log4j-api-2.3.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="log4j-core-2.3.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="mybatis-3.4.6.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="mybatis-spring-1.3.1.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.30-bin.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="ognl-3.1.16.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="slf4j-api-1.7.25.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="slf4j-log4j12-1.7.25.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-aop-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-aspects-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-beans-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-context-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-context-support-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-core-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-expression-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-instrument-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-instrument-tomcat-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-jdbc-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-jms-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-messaging-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-orm-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-oxm-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-test-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-tx-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-web-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-webmvc-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-webmvc-portlet-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+          <element id="library" level="module" name="spring-websocket-4.3.7.RELEASE.jar" module-name="Proj_HospitalizationManSys_SSM" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Proj_HospitalizationManSys_SSM/web/Web" />
+    </root>
+  </artifact>
+</component>

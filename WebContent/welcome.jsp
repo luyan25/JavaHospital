@@ -7,7 +7,7 @@
 	content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" href="css/base.css" />
 <link rel="stylesheet" href="css/info-mgt.css" />
-<title>住院管理系统</title>
+<title>医院门诊系统</title>
 </head>
 <style type="text/css">
 body {
@@ -17,7 +17,7 @@ body {
 </style>
 <body style="background-color: #F1F8FC">
 	<div style="margin-top: 80px;">
-		<font size="5px">===欢迎使用住院管理系统===</font> <br> <img
+		<font size="5px">===欢迎使用医院门诊系统===</font> <br> <img
 			src="./images/welcome.png" /> <br> <br> <br> <br>
 		<br> <br> <label>首次使用?<a target="_blank" href="userGuide.jsp">点这里</a></label>
 		<br> <label id="nowIP"></label> <br> <font size="1px">当前系统版本:2.2.0_0508_R</font>

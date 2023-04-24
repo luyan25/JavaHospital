@@ -759,12 +759,7 @@ nav.navbar .nav-item>a span.noti-numb-bg {
 	animation: heart-beats 1s infinite;
 }
 
-@
-keyframes heart-beats { 0% {
-	transform: scale(0.0);
-}
 
-100%
 {
 transform
 
@@ -776,37 +771,9 @@ transform
 scale
 
 
-(1
-.0
 
-
-);
-}
-}
-@
--webkit-keyframes heart-beats { 0% {
-	transform: scale(0.0);
 }
 
-100%
-{
-transform
-
-
-:
-
- 
-
-scale
-
-
-(1
-.0
-
-
-);
-}
-}
 nav.navbar .nav-item>a.logout i {
 	margin-left: 10px;
 }

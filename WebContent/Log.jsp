@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="css/info-mgt.css" />
 <link rel="stylesheet" type="text/css" href="css/jquery.dialog.css" />
 
-<title>医院住院管理系统</title>
+<title>医院门诊系统</title>
 </head>
 
 <body>

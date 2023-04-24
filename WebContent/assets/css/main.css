@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6
 /* ----------------------------------------Header --------------------------------------------*/
 .section-title
 {
-    background: url(../img/6177817673_5ba53ffc2a_z.jpg);
+    /*background: url(../img/6177817673_5ba53ffc2a_z.jpg);*/
     background-size: cover;
     vertical-align: middle;
     background-position: center;
@@ -197,9 +197,9 @@ li:last-child
 {
     margin-bottom: 40px;
 }
-.widget h4, 
+/*.widget h4, */
 {
-    background: url("../img/title-bg.png") repeat-x scroll 0 4px rgba(0, 0, 0, 0);
+    /*background: url("../img/title-bg.png") repeat-x scroll 0 4px rgba(0, 0, 0, 0);*/
     font-weight: bold;
     margin-bottom: 10px;
     margin-top: 0;
@@ -313,7 +313,7 @@ li:last-child
     display: block;
     width: 100%;
     height: 35px;
-    background: url(../img/or-bg.png) center center no-repeat; 
+    /*background: url(../img/or-bg.png) center center no-repeat; */
     font-size: 14px;
     color: #fff;
     text-align: center;
@@ -480,7 +480,7 @@ section.starting-text
 /* ------------------------------------- 1.4 testimonial-------------------------------------------- */
 #testimonial
 {
-    background: url(../img/1786577.jpg);
+    /*background: url(../img/1786577.jpg);*/
     width: 100%;
     background-size: cover;
     margin-top: 20px;
@@ -514,7 +514,7 @@ section.starting-text
 /* ========================================= 2. Service=========================================== */
 .service-title
 {
-    background: url(../img/gradient-blue-computer.jpg);
+    /*background: url(../img/gradient-blue-computer.jpg);*/
     background-size: cover;
     vertical-align: middle;
     background-position: center;
@@ -600,7 +600,7 @@ section.starting-text
 }
 .special-service h2
 {
-    background: url("../img/title-bg.png") repeat-x scroll 0 13px rgba(0, 0, 0, 0);
+    /*background: url("../img/title-bg.png") repeat-x scroll 0 13px rgba(0, 0, 0, 0);*/
     margin-bottom: 10px;
     margin-top: 0;
 }
@@ -642,7 +642,7 @@ section.starting-text
 }
 #starting
 {
-    background: url(../img/doctors-img.jpg);
+    /*background: url(../img/doctors-img.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -742,7 +742,7 @@ section.starting-text
 /* -------------------------------------- 3.2 job --------------------------------------------- */
 #job
 {
-    background: url(../img/ridgeviewmedicalclinic.jpg) 50% 0 no-repeat fixed;
+    /*background: url(../img/ridgeviewmedicalclinic.jpg) 50% 0 no-repeat fixed;*/
     width: 100%;
     background-size: cover;
     margin-top: 20px;
@@ -793,7 +793,7 @@ section.starting-text
 /* ========================================= 4. FAQs============================================= */
 .faq-title
 {
-    background: url(../img/6177817673_5ba53ffc2a_z.jpg);
+    /*background: url(../img/6177817673_5ba53ffc2a_z.jpg);*/
     background-size: cover;
     vertical-align: middle;
     background-position: center;
@@ -893,7 +893,7 @@ section.starting-text
 }
 .blog-title
 {
-    background: url(../img/blue-abstract-background.jpg);
+    /*background: url(../img/blue-abstract-background.jpg);*/
     background-size: cover;
     vertical-align: middle;
     color: #F0FEFF;
@@ -1003,7 +1003,7 @@ main p {
 /* ========================================== 6. Gallery========================================== */
 .gallery-title
 {
-    background: url(../img/1_235555_1.jpg);
+    /*background: url(../img/1_235555_1.jpg);*/
     background-size: cover;
     vertical-align: middle;
     color: #F0FEFF;
@@ -1113,7 +1113,7 @@ main p {
 /* ========================================= 7. Contact========================================== */
 .contact-title
 {
-    background: url(../img/5501-world-map-1680x1050-digital-art-wallpaper.jpg);
+    /*background: url(../img/5501-world-map-1680x1050-digital-art-wallpaper.jpg);*/
     background-size: cover;
     vertical-align: middle;
     color: #F0FEFF;

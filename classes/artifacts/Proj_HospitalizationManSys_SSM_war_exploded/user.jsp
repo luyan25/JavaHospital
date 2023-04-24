@@ -11,7 +11,7 @@
 <meta name="viewport"
 	content="width=device-width,initial-scale=1.0, minimum-scale=0.5, maximum-scale=1.0, user-scalable=yes" />
 
-<title>医院住院管理系统</title>
+<title>医院门诊系统</title>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/font-awesome.css">
@@ -33,7 +33,7 @@
 
 				<!-- 左上标题 -->
 				<div class="navbar-header">
-					<a href="user.jsp" class="navbar-brand">医院住院管理系统</a> <a
+					<a href="user.jsp" class="navbar-brand">医院门诊系统</a> <a
 						id="toggle-btn" href="#" class="menu-btn active"> <span></span>
 						<span></span> <span></span>
 					</a>

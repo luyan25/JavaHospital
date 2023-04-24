@@ -11,7 +11,7 @@ body {
 	font-family: "微软雅黑";
 	color: #333;
 	line-height: 160%;
-	background: url(../images/login-bg.jpg) center top repeat-x #FFF;
+	background: url(../images/bg2.jpg) center top repeat-x #FFF;
 	height: 100%;
 }
 
@@ -42,7 +42,7 @@ input, button, select, textarea {
 /*login*/
 .login {
 	padding: 1px 0 0 0;
-	background: url(../images/login-bg.jpg) center top no-repeat #FFF;
+	background: url(../images/bg1.jpg) center top no-repeat #FFF;
 	padding: 150px 0 0 0;
 }
 
@@ -91,7 +91,7 @@ input, button, select, textarea {
 	position: absolute;
 	top: 15px;
 	left: 180px;
-	background: url(../images/logo-login.png) no-repeat;
+	background: url(../images/logo-login13.png) no-repeat;
 	width: 350px;
 	height: 50px;
 }
@@ -179,7 +179,7 @@ input, button, select, textarea {
 	z-index: -1;
 	width: 100%;
 	height: 198px;
-	background: url(../images/login-foot.jpg) center bottom repeat-x;
+	background: url(../images/bg2.jpg) center bottom repeat-x;
 }
 
 /*用户名密码输入框*/
